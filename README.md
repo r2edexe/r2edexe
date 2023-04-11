@@ -15,6 +15,6 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
 
-### Social Media;
+#### Social Media; Discord:r2ed#9999
 
 
